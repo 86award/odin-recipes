@@ -1,0 +1,31 @@
+h1
+{
+    background-color: brown;
+    color: darkorange;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 1000;
+    font-size: 40px;
+}
+
+p,
+a
+{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+li
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+
+ol li
+{
+    font-size: 20px;
+}
+
+body
+{
+    background-color: rgba(233, 202, 124, 0.61);
+}
